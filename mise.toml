@@ -1,0 +1,15 @@
+[tools]
+java = "zulu-11.86.21.0"
+python = "3.11"
+
+[env]
+_.python.venv = { path = ".venv" }
+
+[tasks.main]
+description = "Run main.py script"
+run = "uv run python main.py"
+
+
+[tasks.demo]
+description = "Run demo.py script"
+run = "uv run python demo.py"

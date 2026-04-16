@@ -1,0 +1,13 @@
+${batch_date}: batchDate
+${batch_timestamp}: batchTimestamp
+${yesterday}: yesterday
+${nextday}: nextday
+${month}: month
+${prev_month}: prevMonth
+${next_month}: nextMonth
+${year}: year
+${prev_year}: prevYear
+${next_year}: nextYear
+${yearmonth}: yearmonth
+${prev_yearmonth}: prevYearmonth
+${next_yearmonth}: nextYearmonth
