@@ -13,3 +13,8 @@ run = "uv run python main.py"
 [tasks.demo]
 description = "Run demo.py script"
 run = "uv run python demo.py"
+
+
+[tasks.spt]
+description = "Run spark_connect_test.py script"
+run = "uv run spark_connect_test.py"
